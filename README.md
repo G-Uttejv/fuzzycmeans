@@ -1,2 +1,2 @@
 # fuzzycmeans
-AN ML PROJECT
+AIML PROJECT
